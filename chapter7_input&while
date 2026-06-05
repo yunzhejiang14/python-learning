@@ -36,7 +36,6 @@ else:
 # modulo operator %
 number = input("Enter a number, and I'll tell you if it's even or odd: ")
 number = int(number)
-
 if number % 2 == 0:
     print(str(number) + " is even.")
 else:
@@ -52,6 +51,7 @@ while current_number <= 5:
 # user chooses when to quit
 prompt = "\nTell me something, and I will repeat it back to you:"
 prompt += "\nEnter 'quit' to end the program. "
+#prompt = prompt + "\nEnter 'quit' to end the program. "
 message = ""
 while message != 'quit':
     message = input(prompt)
