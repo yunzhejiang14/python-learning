@@ -307,7 +307,7 @@ car = make_car(
     color='blue',
     tow_package=True
 )
-print(car)
+print (car)
 
 
 # saving functions in a module
