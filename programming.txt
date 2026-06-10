@@ -1,0 +1,4 @@
+I love programming.
+I love Python.
+I also love data analysis.
+I also love embedded systems.
